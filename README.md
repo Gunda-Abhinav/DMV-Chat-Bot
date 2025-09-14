@@ -2,11 +2,11 @@
 
 An intelligent chatbot application designed to assist users with California Department of Motor Vehicles (DMV) related queries and procedures. The application features AI-powered conversation capabilities and model training functionality.
 
-## 🚗 Project Description
+## Project Description
 
 This application serves as a comprehensive digital assistant for California DMV services, providing users with accurate information about vehicle registration, driver's licenses, traffic laws, and various DMV procedures. The system leverages AI technologies to understand user queries and provide contextual, helpful responses.
 
-## ✨ Key Features
+## Key Features
 
 - **Interactive Chat Interface**: Real-time conversation with an AI assistant specialized in DMV knowledge
 - **Model Training System**: Allows administrators to train and improve the AI model with new DMV data
@@ -29,7 +29,7 @@ This project is built with:
 - Tailwind CSS
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18** - Modern React with hooks and functional components
 - **TypeScript** - Type-safe development with enhanced IDE support
@@ -57,7 +57,7 @@ This project is built with:
 - **PostCSS** - CSS processing and optimization
 - **Component Tagger** - Development component identification
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -91,3 +91,18 @@ npm run build
 
 ## License
 This project is licensed under [MIT License](LICENSE).
+
+## Screenshots
+<img width="1741" height="1494" alt="image" src="https://github.com/user-attachments/assets/9710c739-b01e-4fcb-9168-7b1e275b374f" />
+<img width="1681" height="1480" alt="image" src="https://github.com/user-attachments/assets/4dda99fa-0f33-41fc-ac18-a517b0fc4e61" />
+<img width="1877" height="1487" alt="image" src="https://github.com/user-attachments/assets/06d4c959-b11d-4209-a22d-bd5dc7ef63a1" />
+<img width="1951" height="1515" alt="image" src="https://github.com/user-attachments/assets/8be386a7-2a03-47e4-9529-e58538f2394b" />
+<img width="1813" height="1480" alt="image" src="https://github.com/user-attachments/assets/89583671-87c8-42d9-9aeb-b6028f33e4f3" />
+<img width="1802" height="1445" alt="image" src="https://github.com/user-attachments/assets/a1f318a6-4729-4d14-8a67-07ba09bab473" />
+
+
+
+
+
+
+
